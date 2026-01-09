@@ -1,11 +1,9 @@
 # docker-compose-fabric-ai
 Use `fabric-ai`'s `REST API` and `MCP server` inside `Docker` containers and manage with `docker compose`
 
-# Special thanks to @danielmiessler, @ksylvan, creators of `fabric-ai` and `fabric-mcp`!
-
----
-
-### Special thanks to @jimscard for teaching me everything I know about this and witnessing my learning process!
+Special thanks to:
+- @danielmiessler, @ksylvan, creators of `fabric-ai` and `fabric-mcp`!
+- @jimscard for teaching me everything I know about this and witnessing my learning process!
 
 ## Repository links:
 
@@ -24,8 +22,6 @@ Use `fabric-ai`'s `REST API` and `MCP server` inside `Docker` containers and man
 
 # Purpose
 
----
-
 Fabric is already an amazing tool for maximizing and optimizing the use of AI through the Fabric CLI. This is taken even further when given as tools for an LLM itself. The goal is to utilize these tools safely through in containers, via Docker.
 
 It can become quite a hassle to have to manage your fabric server REST API instance along with configuring the MCP server. While it technically is easier to set it and forget, there are some noticeable improvements:
@@ -38,8 +34,6 @@ In this repo, I will guide you through the installation process, configuration, 
 
 # Installation
 
----
-
 ## Simple Installation
 
 ### Requirements
@@ -50,8 +44,6 @@ In this repo, I will guide you through the installation process, configuration, 
 
 # Usage
 
----
-
 ### All examples will be using:
 - [LM Studio](https://lmstudio.ai) as the MCP client
 - [Cerebras AI](https://www.cerebras.ai) as fabric's vendor
@@ -60,7 +52,5 @@ In this repo, I will guide you through the installation process, configuration, 
 
 # Extra helpful resources
 
----
-
-- [git cloning CLI tool for automated organization of repositories](https://github.com/grdl/git-get)
+- [Git cloning CLI tool for automated organization of repositories](https://github.com/grdl/git-get)
 - [Cool docker engine monitoring CLI tool](https://github.com/jesseduffield/lazydocker.git)
