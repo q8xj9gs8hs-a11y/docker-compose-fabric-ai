@@ -34,9 +34,9 @@ In this repo, I will guide you through the installation process, configuration, 
 
 ## Previews
 
-<img src="./src/resources/showcase-2.png" alt="Here, the model uses fabric-mcp, which crafts the API request to the running fabric serve instance, allowing the model to show all available models from fabric's configuration" width="50%">  
+<img src="./src/resources/showcase-2.png" alt="Here, the model uses fabric-mcp, which crafts the API request to the running fabric serve instance, allowing the model to show all available models from fabric's configuration" width="85%">  
 
-<img src="./src/resources/showcase-1.png" alt="Management of both the REST API and MCP server in Docker Desktop" width="50%>  
+<img src="./src/resources/showcase-1.png" alt="Management of both the REST API and MCP server in Docker Desktop" width="85%">  
 
 # Installation
 
